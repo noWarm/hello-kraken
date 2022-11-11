@@ -11,6 +11,7 @@
 # git pull
 - git pull = git fetch then git merge
 - git fetch means download all the files from the remote to local
+- dont let the graph representation mislead you, the local tag icon commit node might be higher than the one of the remote node, but still you could be both behind and ahead. You must see the common ancestor commit node
 
 -dafuq is fast-forward
 
