@@ -13,12 +13,13 @@
 - git fetch means download all the files from the remote to local
 - dont let the graph representation mislead you, the local tag icon commit node might be higher than the one of the remote node, but still you could be both behind and ahead. You must see the common ancestor commit node
 
--dafuq is fast-forward
-
-
+# dafuq is fast-forward ??
 # refs ? refspecs ?
-
 # git rebase
+
+# suppose a change is made on the remote with a different feature branch, but my local main and repo main is behind it. How can I make my main catch up to that feature if i want to collapse that feature into my main now
+
+
 # fork
 # pull request
 # stashing
