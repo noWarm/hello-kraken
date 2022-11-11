@@ -8,6 +8,12 @@
 - if we click delete both local/br and origin/br, only the origin will be delete, but the local will still stay (if we're still on br)
 - be **VERY CAREFUL WHEN RESETING LOCAL BRANCH TO REMOTE BRANCH, YOUR WORK MIGHT BE LOSS**
 
+# git pull
+- git pull = git fetch then git merge
+- git fetch means download all the files from the remote to local
+
+
+# refs ? refspecs ?
 
 # git rebase
 # fork
