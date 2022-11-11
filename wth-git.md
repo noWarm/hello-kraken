@@ -12,6 +12,8 @@
 - git pull = git fetch then git merge
 - git fetch means download all the files from the remote to local
 
+-dafuq is fast-forward
+
 
 # refs ? refspecs ?
 
